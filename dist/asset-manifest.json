@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3510d818.css",
+    "main.js": "/static/js/main.748ead07.js",
+    "static/media/AlarabyTelevision-Bold.svg": "/static/media/AlarabyTelevision-Bold.2db5ac3f7de6eef2ba43.svg",
+    "static/media/AlarabyTelevision-Medium.svg": "/static/media/AlarabyTelevision-Medium.df1ae6dfb7b91ea5632f.svg",
+    "static/media/AlarabyTelevision-Regular.svg": "/static/media/AlarabyTelevision-Regular.e8a227e0e0f543f557f8.svg",
+    "static/media/AlarabyTelevision-Medium.ttf": "/static/media/AlarabyTelevision-Medium.942f87c725bc456bb8b3.ttf",
+    "static/media/AlarabyTelevision-Bold.ttf": "/static/media/AlarabyTelevision-Bold.0ee8dfe5a1467f505948.ttf",
+    "static/media/AlarabyTelevision-Regular.ttf": "/static/media/AlarabyTelevision-Regular.ee126d2212c9e3f0f809.ttf",
+    "static/media/AlarabyTelevision-Medium.eot": "/static/media/AlarabyTelevision-Medium.ab0d99ae4ea368d06ff9.eot",
+    "static/media/AlarabyTelevision-Bold.eot": "/static/media/AlarabyTelevision-Bold.11b8a9e65321ba24e370.eot",
+    "static/media/AlarabyTelevision-Regular.eot": "/static/media/AlarabyTelevision-Regular.fde28e8315605581a781.eot",
+    "static/media/AlarabyTelevision-Medium.woff": "/static/media/AlarabyTelevision-Medium.b60712745867b67107c0.woff",
+    "static/media/AlarabyTelevision-Bold.woff": "/static/media/AlarabyTelevision-Bold.ed761da41c7c9d4b934d.woff",
+    "static/media/AlarabyTelevision-Regular.woff": "/static/media/AlarabyTelevision-Regular.dcd81fcacf0aae2e88cf.woff",
+    "static/media/tg_logo.png": "/static/media/tg_logo.b570bb103f8eeca7cc4f.png",
+    "static/media/AlarabyTelevision-Medium.woff2": "/static/media/AlarabyTelevision-Medium.c7d4ac1cffc700156642.woff2",
+    "static/media/AlarabyTelevision-Bold.woff2": "/static/media/AlarabyTelevision-Bold.61afadfe4b364e3e6df4.woff2",
+    "static/media/AlarabyTelevision-Regular.woff2": "/static/media/AlarabyTelevision-Regular.20afe1e0db033654a649.woff2",
+    "static/media/tg_logo_big.png": "/static/media/tg_logo_big.650a1da26ae47b8c6cc4.png",
+    "index.html": "/index.html",
+    "main.3510d818.css.map": "/static/css/main.3510d818.css.map",
+    "main.748ead07.js.map": "/static/js/main.748ead07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3510d818.css",
+    "static/js/main.748ead07.js"
+  ]
+}
